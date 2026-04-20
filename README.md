@@ -36,6 +36,4 @@ Model vzniká v Autodesk Fusion 360 pomocí vytahování z X/Y ploch v Autodesk 
 - Pořízení finálních fotografií  
 - Dopsání dokumentace k ročníkovce  
 
-Výsledný model bude vytištěn na 3D tiskárně, slepen a ručně domalován tak, aby co nejvíce odpovídal herní předloze.
-
 ---
