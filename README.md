@@ -1,1 +1,44 @@
-# Replika luku z Horizon: Zero dawn
+# Replika luku z Horizon: Zero Dawn
+
+Ročníkový projekt zaměřený na vytvoření repliky luku z hry Horizon: Zero Dawn.  
+Model vzniká v Autodesk Fusion 360 pomocí vytahování z X/Y ploch.
+
+---
+
+## Použité nástroje a technologie
+
+- Autodesk Fusion 360 – modelování pomocí extrudování z ploch  
+- PrusaSlicer – příprava G-code a orientace dílů
+- 3D tiskárna (Prusha MK4S)  
+- Akrylové barvy a spreje – finální povrchová úprava  
+
+---
+
+## Hotové části projektu
+
+- Madlo
+- 1. rameno
+- Základní rozměry a proporce podle herní předlohy  
+
+---
+
+## Co zbývá dokončit
+
+- Dovymodelovat zbývající dvě ramena  
+- Přidat detaily podle herní předlohy  
+- Rozřezat model na tisknutelné části  
+- 3D tisk všech segmentů  
+- Lepení, tmelení a broušení spojů  
+- Malování a finální úpravy  
+- Pořízení finálních fotografií  
+- Dopsání dokumentace k ročníkovce  
+
+---
+
+## Stručný popis projektu
+
+Model vychází z designu luku, který používá hlavní hrdinka Aloy.  
+Při tvorbě jsou využity referenční obrázky ze hry a vlastní konstrukční postupy v Autodesk Fusion 360.  
+Výsledný model bude vytištěn na 3D tiskárně, slepen a ručně domalován tak, aby co nejvíce odpovídal herní předloze.
+
+---
