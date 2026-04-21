@@ -20,7 +20,7 @@ Model vzniká v Autodesk Fusion 360 pomocí vytahování z X/Y ploch v Autodesk 
 ## Hotové části projektu
 
 - Madlo
-- 1. rameno
+- první rameno
 - Základní rozměry a proporce podle herní předlohy  
 
 ---
