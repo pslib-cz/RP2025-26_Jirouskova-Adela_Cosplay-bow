@@ -35,5 +35,7 @@ Model vzniká v Autodesk Fusion 360 pomocí vytahování z X/Y ploch v Autodesk 
 - Malování a finální úpravy  
 - Pořízení finálních fotografií  
 - Dopsání dokumentace  
+---
 
+[Dokument](adela_jirouskova-rocnikova_prace.docx)
 ---
