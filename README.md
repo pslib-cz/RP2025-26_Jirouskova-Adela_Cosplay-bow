@@ -22,20 +22,27 @@ Model vzniká v Autodesk Fusion 360 pomocí vytahování z X/Y ploch v Autodesk 
 - Madlo
 - první rameno
 - druhé rameno
-- Základní rozměry a proporce podle herní předlohy  
+- třetí rameno
+- Základní rozměry a proporce podle herní předlohy
+- Přidat detaily/textury podle herní předlohy  
+- Rozřezat model na tisknutelné části
+- Část modelu vytisknutá (1/3 ramen)
 ---
 
-## Co zbývá dokončit
-
-- Dovymodelovat zbývající rameno a část mezi rameny
-- Přidat detaily podle herní předlohy  
-- Rozřezat model na tisknutelné části  
-- 3D tisk všech segmentů  
+## Co zbývá dokončit do odevzdání
+  
+- 3D tisk zbytku segmentů  
 - Lepení, tmelení a broušení spojů  
-- Malování a finální úpravy  
 - Pořízení finálních fotografií  
 - Dopsání dokumentace  
 ---
+
+## Co zbývá dokončit po odevzdání
+   
+- Malování
+- dodání detailů
+---
+
 
 [Dokument](adela_jirouskova-rocnikova_prace.docx)
 ---
