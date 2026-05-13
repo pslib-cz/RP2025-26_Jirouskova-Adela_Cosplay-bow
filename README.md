@@ -26,12 +26,11 @@ Model vzniká v Autodesk Fusion 360 pomocí vytahování z X/Y ploch v Autodesk 
 - Základní rozměry a proporce podle herní předlohy
 - Přidat detaily/textury podle herní předlohy  
 - Rozřezat model na tisknutelné části
-- Část modelu vytisknutá (1/3 ramen)
+- Vytištěný model
 ---
 
 ## Co zbývá dokončit do odevzdání
   
-- 3D tisk zbytku segmentů  
 - Lepení, tmelení a broušení spojů  
 - Pořízení finálních fotografií  
 - Dopsání dokumentace  
