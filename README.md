@@ -28,7 +28,7 @@ Model vzniká v Autodesk Fusion 360 pomocí vytahování z X/Y ploch v Autodesk 
 - Rozřezat model na tisknutelné části
 - Vytištěný model
 - Lepení, tmelení a broušení spojů
-- Dopsání dokumentace  
+- Napsaná dokumentace  
 ---
 
 ## Co zbývá dokončit do odevzdání
