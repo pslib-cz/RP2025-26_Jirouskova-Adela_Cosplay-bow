@@ -27,13 +27,13 @@ Model vzniká v Autodesk Fusion 360 pomocí vytahování z X/Y ploch v Autodesk 
 - Přidat detaily/textury podle herní předlohy  
 - Rozřezat model na tisknutelné části
 - Vytištěný model
+- Lepení, tmelení a broušení spojů
+- Dopsání dokumentace  
 ---
 
 ## Co zbývá dokončit do odevzdání
-  
-- Lepení, tmelení a broušení spojů  
-- Pořízení finálních fotografií  
-- Dopsání dokumentace  
+   
+- Finish  
 ---
 
 ## Co zbývá dokončit po odevzdání
