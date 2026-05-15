@@ -43,5 +43,5 @@ Model vzniká v Autodesk Fusion 360 pomocí vytahování z X/Y ploch v Autodesk 
 ---
 
 
-[Dokument](adela_jirouskova-rocnikova_prace.docx)
+[Dokument](RP2026-Jirouskova-Adela-P3A-Replika_luku.docx)
 ---
